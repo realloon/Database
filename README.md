@@ -11,7 +11,7 @@
 下面的代码展示了存储“学生名单”：
 
 ```javascript
-import Database form './Database.js' // 以实际路径为准
+import Database from './Database.js' // 以实际路径为准
 
 // 原始结构：
 // {
